@@ -6,7 +6,13 @@ eliminar y completar tareas, tiene un archivo json que simula una base de datos
 donde se guardaran las tareas creadas
 </h2>
 
-<h4>comando para correr la app</h4><br>
+
+<p>Para instalar las dependencias necesarias ejecuta</p>
+
+```
+npm install
+```
+<p>Ejecuta la app con el siguiente comando</p>
 
 ```
 node app.js
